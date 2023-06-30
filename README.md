@@ -1,2 +1,2 @@
 # eclipse_springboot_mybatis_mysql
-根据图片的结构来确定如何构建文件夹。
+根据图片的结构来确定如何构建文件夹。首先要确保sql连接，在项目右键选择build path里面的外部连接。
